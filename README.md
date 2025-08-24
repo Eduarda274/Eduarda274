@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Eduarda274/Eduarda274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">🌵 081 | 👓 Dev em treinamento | Duda (Eduarda)</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  💻 Desenvolvimento Full Stack pela Infinity School  
+  📚 Treinanda BFD Softex  
+  🏛️ Arquiteta e Urbanista de Formação  
+  📊 Interesse em Análise de Dados & Machine Learning
+  🐹 Capivaras
+</p>
+
+---
+
+## Sobre
+- 🌵 Recife/PE (081)  
+- 👓 Nerd  
+- 💻 Foco atual: Python, Flask, MySQL (nível intermediário)  
+
+## Estudando agora
+- Python para back-end (boas práticas, modularização, tratamento de erros)  
+- Bancos de dados relacionais (MySQL e SQLite)  
+- Git/GitHub (commits claros, branches, PRs)  
+
+## Próximos passos
+- Pequenos projetos em back-end   
+- Interesses futuros: Cloud, Big Data, QA  
