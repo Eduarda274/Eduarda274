@@ -6,7 +6,7 @@
   💻 Desenvolvimento Full Stack pela Infinity School  
   📚 Treinanda BFD Softex  
   🏛️ Arquiteta e Urbanista de Formação  
-  📊 Interesse em Análise de Dados & Machine Learning
+  📊 Interesse em Python & Machine Learning
   🐹 Capivaras
 </p>
 
@@ -15,13 +15,14 @@
 ## Sobre
 - 🌵 Recife/PE (081)  
 - 👓 Nerd  
-- 💻 Foco atual: Python, Flask, MySQL (nível intermediário)  
+- 💻 Foco atual: Python, Django, MySQL (nível iniciante/intermediário)  
 
 ## Estudando agora
-- Python para back-end (boas práticas, modularização, tratamento de erros)  
-- Bancos de dados relacionais (MySQL e SQLite)  
-- Git/GitHub (commits claros, branches, PRs)  
+- Python para back-end  
+- Bancos de dados relacionais (MySQL e SQLite)
+- Django 
+- Git/GitHub  
 
 ## Próximos passos
 - Pequenos projetos em back-end   
-- Interesses futuros: Cloud, Big Data, QA  
+- Interesses futuros: Integração Back-End + IA, Cloud, Big Data, Machine Learning 
